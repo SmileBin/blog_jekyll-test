@@ -1,0 +1,2 @@
+# smilebin.github.io
+Blog!
